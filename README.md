@@ -11,5 +11,7 @@ python knnPredict.py
 ```
 ### Libraries
 matplotlib
+<br /> 
 pandas
+<br /> 
 scikit_learn
